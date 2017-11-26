@@ -14,7 +14,7 @@ django-tables2-simplefilter==0.1
 django-tables2==1.0.4
 django-bootstrap3==6.1.0
 dnspython==1.12.0
-fpconst==0.7.2
+fpconst==0.8.0
 future==0.14.3
 gunicorn==19.3.0
 httplib2==0.9.1
